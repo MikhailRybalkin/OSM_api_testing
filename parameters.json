@@ -1,0 +1,8 @@
+{
+    "base_url": "https://api.openstreetmap.org/api/0.6",
+    "moderator_access": false,
+    "node_id":  17807753,
+    "way_id": 592377014,
+    "relation_id": 1641193,
+    "user_id": 1234567
+}
